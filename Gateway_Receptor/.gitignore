@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+mqtt_cola.db*
+.simulador_cola.db*
